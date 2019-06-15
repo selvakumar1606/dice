@@ -38,4 +38,22 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}.btn
+{
+
+  color: #ff487e;
+  text-align:center;
+  font-size: 20px;
+
+
 }
+.btn:hover
+{
+
+  color: blue;
+  text-align:center;
+  font-size: 20px;
+
+
+}
+
